@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "sdmn,dna,snd,asnd,asnd,ansdkasndkahdikhdo 1" },
-    { "id": 2, "title": "Possdasdadat 2" },
-    { "id": 3, "title": "Possda.dm a.;,d;a,d;at 3" }
+  "projects": [
+    { "id": 1, "title": "Resource Allocation" },
+    { "id": 2, "title": "Quiz app" },
+    { "id": 3, "title": "To Do List" }
   ],
   "comments": [
-    { "id": 1, "body": "somdssadsadasde comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "you are doing great", "postId": 1 },
+    { "id": 2, "body": "nice work", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Simran Jaiswal"
   }
 }
+
